@@ -1,0 +1,7 @@
+c:\users\kinan\documents\visual studio 2010\Projects\GetProcessorID\GetProcessorID\bin\Debug\GetProcessorID.exe
+c:\users\kinan\documents\visual studio 2010\Projects\GetProcessorID\GetProcessorID\bin\Debug\GetProcessorID.pdb
+c:\users\kinan\documents\visual studio 2010\Projects\GetProcessorID\GetProcessorID\obj\x86\Debug\GetProcessorID.Form1.resources
+c:\users\kinan\documents\visual studio 2010\Projects\GetProcessorID\GetProcessorID\obj\x86\Debug\GetProcessorID.Properties.Resources.resources
+c:\users\kinan\documents\visual studio 2010\Projects\GetProcessorID\GetProcessorID\obj\x86\Debug\GetProcessorID.csproj.GenerateResource.Cache
+c:\users\kinan\documents\visual studio 2010\Projects\GetProcessorID\GetProcessorID\obj\x86\Debug\GetProcessorID.exe
+c:\users\kinan\documents\visual studio 2010\Projects\GetProcessorID\GetProcessorID\obj\x86\Debug\GetProcessorID.pdb
